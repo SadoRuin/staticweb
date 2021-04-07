@@ -1,2 +1,2 @@
 # Static Website Demo
-https://sadoruin.github.io/staticWeb/
+https://sadoruin.github.io/staticweb/
